@@ -1,0 +1,44 @@
+﻿  KKH_stb_image_JNI_wrap.cpp
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(305): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(383): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(413): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(415): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(426): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(441): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(457): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(473): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(490): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(506): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(520): warning C4267: 'argument': conversion from 'size_t' to 'jsize', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1374): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1375): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1376): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1393): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1394): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1395): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1431): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1447): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1484): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1500): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1537): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1553): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1719): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1720): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1721): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1735): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1736): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1737): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1774): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1788): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1825): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1839): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1876): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CPP_Libs\KKH\CPP_Header_only_libs\JNI_modern_tools.h(1889): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library ..\..\..\Native_Libs\KKH_stb_image_JNI_wrap.lib and object ..\..\..\Native_Libs\KKH_stb_image_JNI_wrap.exp
+  Generating code
+  36 of 734 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KKH_stb_image_JNI_wrap.vcxproj -> C:\Users\Kyaw\Documents\eclipse-workspace\stb_image_JNI_wrap\jni\KKH_stb_image_JNI_wrap\..\..\..\Native_Libs\KKH_stb_image_JNI_wrap.dll
+  KKH_stb_image_JNI_wrap.vcxproj -> ..\..\..\Native_Libs\KKH_stb_image_JNI_wrap.pdb (Full PDB)
